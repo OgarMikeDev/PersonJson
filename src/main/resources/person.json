@@ -1,0 +1,13 @@
+{
+  "name" : "Mike",
+  "age" : 23,
+  "married" : true,
+  "hobbies" : ["java", "BJJ"],
+  "children" : ["Alex"],
+  "car" : null,
+  "job" : {
+    "since" : "2023-09-21",
+    "city" : "Sochi",
+    "salary" : 180000
+  }
+}
